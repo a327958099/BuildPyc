@@ -10,7 +10,7 @@
 
 # Method 1: directly run the file to build the current project
 
-python build_pyc
+python build_pyc.py
 
 
 # Method 2, import class
