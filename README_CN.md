@@ -10,7 +10,7 @@
 
 # 方法1，直接运行文件构建当前项目
 
-python build_pyc
+python build_pyc.py
 
 
 # 方法2，导入类
